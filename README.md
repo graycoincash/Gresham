@@ -1,15 +1,15 @@
 # Gresham
 
 # 一、Project profile
-Project name: Gray Cash
+Project name: Graycoin Cash
 
-White Paper on Gray's Cash Project
+White Paper on Graycoin Cash Project
 
-This paper is a white paper for Gray's cash project. The text introduces the market background, technical framework, token structure, fundraising introduction, team introduction, mission and so on. The text is only available to investors interested in Gray's cash projects to learn about Gray's cash projects.
+This paper is a white paper for Graycoin Cash project. The text introduces the market background, technical framework, token structure, fundraising introduction, team introduction, mission and so on. The text is only available to investors interested in Graycoin Cash projects to learn about Graycoin Cash projects.
 
-Explanation of term: Graycoin Cash: Gray Cash for short, English Gray Cash
+Explanation of term: Graycoin Cash: Graycoin Cash for short, English Graycoin Cash
 
-Gray cash applications: finance, ecommerce, games, new technologies and so on
+Graycoin Cash applications: finance, ecommerce, games, new technologies and so on
 
 By Gresham Labs
 # 二、API description
@@ -55,7 +55,7 @@ By Gresham Labs
 
 4.4. Graycoin Cash wallet	26
 
-4.5. Gray cash account	27
+4.5. Graycoin Cash account	27
 
 4.6. Graycoin Cash issue plan	28
 
@@ -157,7 +157,7 @@ By Gresham Labs
 项目名称： 格雷现金
 文件名称： 格雷现金项目白皮书
 文件描述： 本文为格雷现金项目白皮书，文本内容介绍格雷现金项目相关的市场背景、技术架构、代币结构、募资介绍、团队介绍、任务使命等相关内容，文本仅作为提供给关注格雷现金项目投资者了解格雷现金项目使用。
-术语解释： Graycoin Cash：格雷现金简称英文，英文Gray Cash
+术语解释： Graycoin Cash：格雷现金简称英文，英文Graycoin Cash
 格雷现金应用领域： 金融、电商、游戏、新技术等各行各业
 作者： Gresham Labs（格雷欣实验室）
 # 二、接口说明
